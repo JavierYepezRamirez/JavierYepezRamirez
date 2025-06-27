@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Javier Yepez Ramírez and I'm a software developer and data mining enthusiast, from Guanajuato, México 🇲🇽</h2>
+<h2 align="left">Hi 👋! My name is Javier Yepez Ramírez and I'm a software developer, from Guanajuato, México 🇲🇽</h2>
 
 ###
 
@@ -51,28 +51,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/javier-yepez-ramirez-8bb705351/?originalSubdomain=mx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/jgarrix99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_javier_yepez/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:javier_yepez@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JavierYepezRamirez.JavierYepezRamirez&"  />
 
 ###
 
@@ -81,5 +60,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JavierYepezRamirez/count.svg?"  />
+</div>
 
 ###
