@@ -68,6 +68,12 @@ Explore my pinned repositories for a curated selection of the projects I most wa
 
 <img alt="Contribution activity animation" src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/snake.svg" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph.svg" />
+</picture>
+
 <div align="center">
   <sub>Thanks for visiting. Feel free to explore a project or start a conversation on GitHub.</sub>
 </div>
