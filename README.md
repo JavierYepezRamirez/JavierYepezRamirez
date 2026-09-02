@@ -19,6 +19,14 @@ I'm a software developer from Guanajuato, Mexico 🇲🇽. I enjoy solving real 
 - 📱 Interested in mobile development, full-stack web applications, and clean developer experiences
 - 🌱 Always learning and improving one project at a time
 
+## Featured work
+
+| Project | What it is | Explore |
+|---|---|---|
+| **Tienda Ryse** | iOS app available on the App Store. | [App Store ↗](https://apps.apple.com/mx/app/tienda-ryse/id6780679647) |
+| **Mi Ryse App** | Inventory consultation and management app with QR and barcode scanning. | [App Store ↗](https://apps.apple.com/mx/app/mi-ryse-app/id6768872850) · [Google Play ↗](https://play.google.com/store/apps/details?id=com.ryse.mi&hl=es_MX) |
+| **CINERGIA UG** | Ongoing website maintenance for the Centro Interinstitucional de Energía at the Universidad de Guanajuato. | [Visit the site ↗](https://cinergiaug.org/index.html) |
+
 ## Toolbox
 
 <p>
