@@ -1,81 +1,50 @@
 <div align="center">
-
-# Hi 👋, I'm JavierYepezRamirez
-
-### Hi 👋! My name is Javier Yepez Ramírez and I'm a software developer, from Guanajuato, México 🇲🇽
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Universidad de Guanajuato  |  | 2020-08 - 2025-12 |
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <h1>Hi, I'm Javier Yepez Ramírez 👋</h1>
+  <p><strong>Software Developer · Mobile & Web</strong></p>
+  <p>I build practical, reliable applications and enjoy turning ideas into polished user experiences.</p>
+  <p>
+    <a href="https://github.com/JavierYepezRamirez?tab=repositories">Explore my work</a>
+    ·
+    <a href="https://github.com/JavierYepezRamirez">Follow on GitHub</a>
+  </p>
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/snake.svg" alt="Snake animation" />
+## About me
 
-###
+I'm a software developer from Guanajuato, Mexico 🇲🇽. I enjoy solving real problems with thoughtful product design and maintainable code, with particular interest in cross-platform mobile development and modern web applications.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/pacman-contribution-graph.svg">
-</picture>
+- 🎓 Universidad de Guanajuato · 2020–2025
+- 📱 Interested in mobile development, full-stack web applications, and clean developer experiences
+- 🌱 Always learning and improving one project at a time
 
-###
+## Toolbox
 
-<br clear="both">
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,c,cpp,js,python,php&theme=light" alt="Kotlin, C, C++, JavaScript, Python and PHP" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,nodejs,vue,nuxtjs,firebase&theme=light" alt="Flutter, Android Studio, Node.js, Vue, Nuxt and Firebase" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=light" alt="MongoDB, MySQL, Git, GitHub and VS Code" />
+</p>
+
+## What you'll find here
+
+Explore my pinned repositories for a curated selection of the projects I most want to share.
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JavierYepezRamirez.JavierYepezRamirez&"  />
+  <a href="https://github.com/JavierYepezRamirez?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" />
+  </a>
 </div>
 
-###
+## Contributions
 
-<br clear="both">
+<img alt="Contribution activity animation" src="https://raw.githubusercontent.com/JavierYepezRamirez/JavierYepezRamirez/output/snake.svg" />
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <sub>Thanks for visiting. Feel free to explore a project or start a conversation on GitHub.</sub>
 </div>
-
-###
