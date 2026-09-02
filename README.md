@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Javier Yepez Ramírez 👋</h1>
-  <p><strong>Software Developer · Mobile & Web</strong></p>
+  <p><strong>Computer Systems Engineer · Software Developer</strong></p>
   <p>I build practical, reliable applications and enjoy turning ideas into polished user experiences.</p>
   <p>
     <a href="https://github.com/JavierYepezRamirez?tab=repositories">Explore my work</a>
@@ -13,11 +13,12 @@
 
 ## About me
 
-I'm a software developer from Guanajuato, Mexico 🇲🇽. I enjoy solving real problems with thoughtful product design and maintainable code, with particular interest in cross-platform mobile development and modern web applications.
+I'm a Computer Systems Engineer from Guanajuato, Mexico 🇲🇽 and a Master's student in Software Engineering and Information Systems. I enjoy solving real problems with thoughtful product design and maintainable code, with particular interest in cross-platform mobile development and modern web applications.
 
-- 🎓 Universidad de Guanajuato · 2020–2025
-- 📱 Interested in mobile development, full-stack web applications, and clean developer experiences
-- 🌱 Always learning and improving one project at a time
+- 🎓 **M.Sc. student, Software Engineering and Information Systems** · Universidad Internacional de La Rioja en México · 2026–present
+- 🎓 **Computer Systems Engineer** · Universidad de Guanajuato · 2020–2025
+- 📱 Building cross-platform mobile and full-stack web applications
+- 🧠 Focused on maintainable code, thoughtful user experiences, and continuous learning
 
 ## Featured work
 
@@ -48,6 +49,20 @@ Explore my pinned repositories for a curated selection of the projects I most wa
     <img src="https://img.shields.io/badge/View%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" />
   </a>
 </div>
+
+## Let's connect
+
+<p>
+  <a href="mailto:javier_yepez@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Javier" />
+  </a>
+  <a href="https://www.linkedin.com/in/javier-yepez-ramirez-8bb705351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Javier on LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_javier_yepez/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Javier on Instagram" />
+  </a>
+</p>
 
 ## Contributions
 
